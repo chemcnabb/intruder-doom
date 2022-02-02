@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="left-down" width="100" height="100" tilewidth="16" tileheight="16" infinite="1" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="../../sprites/p5/die-hard-tileset.tsx"/>
+ <tileset firstgid="361" source="../../sprites/p5/die-hard-firniture.tsx"/>
+ <layer id="2" name="Tile Layer 2" width="100" height="100">
+  <data encoding="base64" compression="zstd">
+   <chunk x="-48" y="-16" width="16" height="16">
+   KLUv/WAAA20CANQCHAAAAAYAAAAHAAAAGAAAABk7JAAAACUAAAA2AAAANwAAADg6WUIAAABDVlg7DCBwgnMPPF/Jku4MGxtvXTYCz9y/sXYHHTzdn3tE
+  </chunk>
+   <chunk x="-32" y="-16" width="16" height="16">
+   KLUv/WAAA8UBALAaAAAAGAAAABkbOzo2AAAANzlZWFc7D6CgcNoBwAJEDzxVJqy6+Wua8agVv3NFc3/OKPkyGck/
+  </chunk>
+   <chunk x="-16" y="-16" width="16" height="16">
+   KLUv/WAAA3UCAJLFCxFgGQp0E2F8LI7CCMGzOU0Beq26FR2iPl26nD/Ijzdnvlx50owDZy9OfLjw4PcLCwA8QZUdAT+Nfsn6pjmQb0fCVEY3VB4gEz10Tw==
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   KLUv/WAAA2UCAHKFCxFweQmQ8bXhUNjXeiFKgAfL/9KjQ5/+3KGqIz9ufHlx4soTpvm7e2NfDw4IHwIKAC2hAgcmGQRwM7nZdT+zu3b9u5n9zI7NuSw=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="1" name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zstd">
+   <chunk x="-48" y="-16" width="16" height="16">
+   KLUv/WAAA70BAOD7AQAA/AEAXwAAAHcBGwIAABwCAH0AOwIAADybCiBQQ4XGARkrgAAQUt+hdRCsYHibrZRbGAE=
+  </chunk>
+   <chunk x="-32" y="-16" width="16" height="16">
+   KLUv/WAAA00CANQCAADqAQBfdwEAALUAAAC2AAAAtwAKAgB90wAAANQAAADVKpvxAAAA8gAAAPMACgA/cRVCd0Oo2c5OzuwE+Aac1Jf4gj82gAU=
+  </chunk>
+   <chunk x="-16" y="-16" width="16" height="16">
+   KLUv/WAAA60AAEh4AQBfAH0AmwAEEABLKzwJT8KaQw==
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   KLUv/WAAA/0AAEh4AQBfAH0AmwAIgPACdyFBJSDjHIAZ5ziKAZzMIAU=
+  </chunk>
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="left-down" width="105" height="92" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="scifitiles-sheet.tsx"/>
+ <tileset firstgid="337" source="scifi.tsx"/>
+ <imagelayer id="2" name="bg" locked="1">
+  <image source="../ship.png" width="1692" height="1479"/>
+ </imagelayer>
+ <layer id="1" name="Tile Layer 1" width="105" height="92">
+  <data encoding="base64" compression="zstd">
+   KLUv/WDwlaUBAHAAAKQBqarEysUBAADJ5AwAoQ+gACxQbq56KT+XUvwNxtNVb3IlHIhTdjMy4MQLjH8UwAI=
+  </data>
+ </layer>
+</map>
